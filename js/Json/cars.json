@@ -1,0 +1,72 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089934470.jpg",
+        "price": "3000.00",
+        "name": "Ferrari Cavallino Rampante",
+        "description": "Poco se puede decir del Ferrari Cavallino Rampante. Una marca que tiene un color rojo patentado con su nombre, que es el referente principal en la Fórmula 1 y que ingresa por el merchandising en todo el mundo mucho más que por la venta de automóviles -todos por encima de los 100.000 euros de precio-, tiene que ser considerada la firma del coche de lujo por excelencia. Y es que todos somos de Ferrari y el que diga lo contrario, miente"
+    
+      },
+      {
+        "id": 2,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539095675614.jpg",
+        "price": "2500.00",
+        "name": "Lamborghini Aventador LP 780-4.",
+        "description": "Aquellos que resisten a los encantos de Ferrari y quieren ir contra la masa, tienen en los Lamborghini la misma deportividad, pero con unos diseños y una conducción más "agresivos". Y es que la marca de Bolonia, originariamente productora de tractores y vehículos agrícolas, entró como un toro -nunca mejor dicho- en el mundo de los coches deportivos, tras un encontronazo de su dueño con Ferrari. Desde entonces, parece que la bravura del animal de lidia se refleja en todos sus modelos tanto en los nombres, algunos de toros famosos o indultados (Diablo, Murciélago...) y otros relacionados con la tauromaquia (Miura, Espada...); como en sus diseños y motores que llaman la atención a la vista y al oído cuando te encuentras por la calle con uno de sus coches."
+      },
+      {
+        "id": 3,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089343417.jpg",
+        "price": "3500.00",
+        "name": "Maserati Maserati Gt Monochrome",
+        "description": "Sin salir de Italia, Maserati ofrece la exclusividad discreta. Podría estar perfectamente entre los elegantes por esa discreción en sus diseños de líneas suaves que los hacen pasar desapercibidos al ojo poco entrenado en el lujo automovilístico. Pero su deportividad y el prestigio de marca ganado a pulso durante décadas entre lo más granado de la sociedad, hacen de los Maserati otro clásico de los coches de súper alta gama."
+      },
+      {
+        "id": 4,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539088822756.jpg",
+        "price": "4000.00",
+        "name": "Porshe 911 Turbo",
+        "description": "Si el diseño italiano y la elegancia británica son dos referentes en el sector del automóvil de lujo, hay que destacar la capacidad de la alemana Porsche para juntar esas dos premisas y, además, añadir la fiabilidad y la vanguardia tecnológica de sus motores para conseguir unos vehículos prácticamente perfectos. Y es que los modelos de la factoría de Stuttgart son un 9 sobre 10 en todo. Son vehículos deportivos, pero sin llegar a la extravagancia. De líneas elegantes, pero sin caer en una excesiva sobriedad. Sus motores, potentes y veloces, desarrollados para la alta competición, ofrecen sin embargo una conducción amable y confortable. Además, cuenta con una amplia gama desde los clásicos deportivos biplaza como el 911, hasta berlinas como el Panamera o el primer SUV de alta gama, el Cayenne, que hace que esta exclusiva marca pueda a acompañar a sus clientes, aunque vayan cambiando sus circunstancias familiares y necesidades. Un compañero de viaje de lujo, para toda la vida."
+      },
+      {
+        "id": 5,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539088822756.jpg",
+        "price": "22.000",
+        "name": "Aston Martin V12 Vanquish",
+        "description": "La versión british de los Maseratti. Sus deportivos, rápidos y potentes, desprenden buen gusto y mucha clase. Y si además es el coche de James Bond, no podemos dejar de asociar esta marca a equipamientos fuera de serie. Aunque los de verdad no lleven los que tenía el del espía 007. Una pena."  },
+      {
+        "id": 6,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539088102649.jpg",
+        "price": "4000.00",
+        "name": "Rolls-Royce Ghost Extended",
+        "description": "De mecánica saben algo. La mitad de los motores de los aviones comerciales están fabricados por Rolls Royce, pero si algo caracteriza a la marca británica es su elegancia. La distinción que otorga un coche de la firma del ángel alado sigue siendo inigualable a pesar del paso de los años. De hecho, son los coches preferidos de la familia real británica, los favoritos de emires, jeques o jefes de Estado, y los elegidos por muchas parejas para la llegada de la novia el día más importante de su vida -al menos en cuanto a hacerse fotos se refiere. Y es que los modelos de Rolls Royce, tanto los actuales como los clásicos, son un lujo que merece ser disfrutado al menos una vez en la vida y que cambian por completo la escenografía que los rodea en los momentos más señalados."
+      },   
+      {
+        "id": 7,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539088102649.jpg",
+        "price": "4300.00",
+        "name": "Bentley Continental GT",
+        "description": "Originalmente nacida como el competidor natural de Rolls Royce, fue adquirida por esta tras la crisis de 1929 y compartieron caminos durante casi 70 años, hasta que en 1998 fueron adquiridas por BMW y Volkswagen, respectivamente. La elegancia de los Bentley ha ido evolucionando desde entonces hacia modelos mucho más dinámicos en sus líneas, con una conducción cada vez más deportiva, y concebidos para un uso mucho más asiduo que su vecino de las islas. Eso sí, sin olvidar unos equipamientos fuera de serie, que en algunos casos pueden superar a sus competidores del segmento del lujo que podría llamarse más señorial"
+      },
+      {
+        "id": 8,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089788997.jpg",
+        "price": "4.000",
+        "name": "Jaguar XJ",
+        "description": "Otro ejemplo de la evolución de coches elegantes y distinguidos hacia versiones más deportivas es Jaguar. Los clásicos interiores de madera y sus interminables morros rematados con el espectacular felino plateado en la punta, míticos durante los 70 y los 80, han dado paso a vehículos más compactos, mucho más potentes y a versiones más actuales como los SUV. Todos ellos equipados con tecnologías desarrolladas en sus incursiones en la alta competición donde llevan años codeándose con otras marcas de un perfil mucho más deportivo pero sin perder ese aire british que caracteriza a la firma."
+      },
+      {
+        "id": 9,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089592927.jpg",
+        "price": "3.900",
+        "name": "Tesla Roadster",
+        "description": "La revolución verde. Concebidos en su inicio como modelos deportivos de lujo para atraer a los compradores de coches de alta gama hacia la tecnología 100% eléctrica, los Tesla han ido ampliando su 'target' y están aquí para quedarse. El gran éxito de la compañía de Elon Musk tiene aún más mérito si se tiene en cuenta el riesgo de su apuesta: coches eléctricos valorados en más de 100.000, cuando las referencias hasta ese momento eran los híbridos japoneses, introducidos en los mercados a golpe de subvención, y las flotas urbanas de minicoches de alquiler por horas. Frente a eso, la aparición de los prototipos futuristas de Tesla, con una estética parecida a los Maserati o Aston Martin, pero con una autonomía limitada y necesidad de cargarlos por las noches, parecía una boutade encaminada a la bancarrota, que finalmente resultó un pelotazo que cambiaría el presente y el futuro del automóvil, donde ya todos los fabricantes se han subido al carro eléctrico."
+      },
+      {
+        "id": 10,
+        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089095466.jpg",
+        "price": "3.000",
+        "name": "Mercedes AMG GT 63 Hybrid.",
+        "description": "¿Federer, Nadal o Djokovic? Tres de las marcas más vendidas del mundo, que son el claro ejemplo de que la competencia nos hace mejores. Y es que las firmas alemanas han ido marcándose el paso toda la vida, tanto en los circuitos -intercalando éxitos en las competiciones más prestigiosas- como en la calle, donde han ido peleando su cuota de mercado con modelos más asequibles por un lado y versiones de súper lujo, por otro."
+      },
