@@ -19,7 +19,7 @@ durante la segunda semana de bootcamp.</p>
 - instalar dependencia de npm (npm install) 
 - Probar Json server 
 - instala for fake api npm install -g json-server
-- Ejecutar json-server
+- Ejecutar json-server --g json-server
 <section>
 <h4>Herramientas utilizadas</h4>
  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
