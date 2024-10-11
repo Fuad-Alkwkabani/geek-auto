@@ -1,13 +1,24 @@
-header {
+body{
+  background-image: url(img/background.jpeg);
+}
+header{
     text-align: center;
     padding: 10px;
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
-    font-size: 100px;
-    -webkit-box-shadow: 0px -5px 5px -5px rgba(34, 60, 80, 0.6) inset;
-    -moz-box-shadow: 0px -5px 5px -5px rgba(34, 60, 80, 0.6) inset;
-    box-shadow: 0px -5px 5px -5px rgba(34, 60, 80, 0.6) inset;
+    font-size: 80px;
+    color: rgb(227, 202, 242);
+    -webkit-box-shadow: 0px -5px 5px -5px rgba(224, 210, 229, 0.6) inset;
+    -moz-box-shadow: 0px -5px 5px -5px rgba(176, 17, 239, 0.6) inset;
+    box-shadow: 0px -5px 5px -5px rgba(183, 207, 226, 0.6) inset;
   }
+ .title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 30px;
+    color: aqua;
+ } 
 .cardscar{
     display: flex;
     flex-wrap: wrap;
@@ -23,6 +34,7 @@ header {
 }
 .card-title{
     text-align: center;
+    font-size: 25px;
 
 }
 .card {

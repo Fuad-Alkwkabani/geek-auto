@@ -19,7 +19,7 @@ fetchCarsJson().then(car => {
         
         carSection.innerHTML += `
             
-          <div class="card" style="width: 40rem;">
+          <div class="card" style="width: 30rem;">
             <img src="${image}" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">${id}. ${name} ${price}€</h5>
