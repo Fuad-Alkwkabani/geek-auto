@@ -53,3 +53,13 @@ header{
     object-fit: cover;
 
 }
+footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 15px;
+  }
