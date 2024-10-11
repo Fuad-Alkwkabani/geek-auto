@@ -1,13 +1,15 @@
 body{
-  background-image: url(img/background.jpeg);
+    background-image: url(img/background.jpeg);
 }
 header{
     text-align: center;
-    padding: 10px;
+    background-color: black;
+    padding: 20px;
     font-family: 'Times New Roman', Times, serif;
-    font-style: oblique;
-    font-size: 80px;
-    color: rgb(227, 202, 242);
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(96, 96, 239);
+    justify-content: baseline;
     -webkit-box-shadow: 0px -5px 5px -5px rgba(224, 210, 229, 0.6) inset;
     -moz-box-shadow: 0px -5px 5px -5px rgba(176, 17, 239, 0.6) inset;
     box-shadow: 0px -5px 5px -5px rgba(183, 207, 226, 0.6) inset;
@@ -15,9 +17,9 @@ header{
  .title {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-style: oblique;
-    font-size: 30px;
-    color: aqua;
+    font-style: italic;
+    font-size: 40px;
+    color: rgb(96, 96, 239);
  } 
 .cardscar{
     display: flex;
