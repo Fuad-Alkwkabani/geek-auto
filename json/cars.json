@@ -30,40 +30,34 @@
       },
       {
         "id": 5,
-        "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539088822756.jpg",
-        "price": "22.000",
-        "name": "Aston Martin V12 Vanquish",
-        "description": "La versión british de los Maseratti. Sus deportivos, rápidos y potentes, desprenden buen gusto y mucha clase. Y si además es el coche de James Bond, no podemos dejar de asociar esta marca a equipamientos fuera de serie. Aunque los de verdad no lleven los que tenía el del espía 007. Una pena."  },
-      {
-        "id": 6,
         "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539088102649.jpg",
         "price": "4000.00",
         "name": "Rolls-Royce Ghost Extended",
         "description": "De mecánica saben algo. La mitad de los motores de los aviones comerciales están fabricados por Rolls Royce, pero si algo caracteriza a la marca británica es su elegancia. La distinción que otorga un coche de la firma del ángel alado sigue siendo inigualable a pesar del paso de los años. De hecho, son los coches preferidos de la familia real británica, los favoritos de emires, jeques o jefes de Estado, y los elegidos por muchas parejas para la llegada de la novia el día más importante de su vida -al menos en cuanto a hacerse fotos se refiere. Y es que los modelos de Rolls Royce, tanto los actuales como los clásicos, son un lujo que merece ser disfrutado al menos una vez en la vida y que cambian por completo la escenografía que los rodea en los momentos más señalados."
       },   
       {
-        "id": 7,
+        "id": 6,
         "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539088102649.jpg",
         "price": "4300.00",
         "name": "Bentley Continental GT",
         "description": "Originalmente nacida como el competidor natural de Rolls Royce, fue adquirida por esta tras la crisis de 1929 y compartieron caminos durante casi 70 años, hasta que en 1998 fueron adquiridas por BMW y Volkswagen, respectivamente. La elegancia de los Bentley ha ido evolucionando desde entonces hacia modelos mucho más dinámicos en sus líneas, con una conducción cada vez más deportiva, y concebidos para un uso mucho más asiduo que su vecino de las islas. Eso sí, sin olvidar unos equipamientos fuera de serie, que en algunos casos pueden superar a sus competidores del segmento del lujo que podría llamarse más señorial"
       },
       {
-        "id": 8,
+        "id": 7,
         "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089788997.jpg",
         "price": "4.000",
         "name": "Jaguar XJ",
         "description": "Otro ejemplo de la evolución de coches elegantes y distinguidos hacia versiones más deportivas es Jaguar. Los clásicos interiores de madera y sus interminables morros rematados con el espectacular felino plateado en la punta, míticos durante los 70 y los 80, han dado paso a vehículos más compactos, mucho más potentes y a versiones más actuales como los SUV. Todos ellos equipados con tecnologías desarrolladas en sus incursiones en la alta competición donde llevan años codeándose con otras marcas de un perfil mucho más deportivo pero sin perder ese aire british que caracteriza a la firma."
       },
       {
-        "id": 9,
+        "id": 8,
         "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089592927.jpg",
         "price": "3.900",
         "name": "Tesla Roadster",
         "description": "La revolución verde. Concebidos en su inicio como modelos deportivos de lujo para atraer a los compradores de coches de alta gama hacia la tecnología 100% eléctrica, los Tesla han ido ampliando su 'target' y están aquí para quedarse. El gran éxito de la compañía de Elon Musk tiene aún más mérito si se tiene en cuenta el riesgo de su apuesta: coches eléctricos valorados en más de 100.000, cuando las referencias hasta ese momento eran los híbridos japoneses, introducidos en los mercados a golpe de subvención, y las flotas urbanas de minicoches de alquiler por horas. Frente a eso, la aparición de los prototipos futuristas de Tesla, con una estética parecida a los Maserati o Aston Martin, pero con una autonomía limitada y necesidad de cargarlos por las noches, parecía una boutade encaminada a la bancarrota, que finalmente resultó un pelotazo que cambiaría el presente y el futuro del automóvil, donde ya todos los fabricantes se han subido al carro eléctrico."
       },
       {
-        "id": 10,
+        "id": 9,
         "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/05/30/16539089095466.jpg",
         "price": "3.000",
         "name": "Mercedes AMG GT 63 Hybrid.",
